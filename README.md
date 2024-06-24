@@ -20,4 +20,4 @@ TDesign 微信小程序组件库的组件示例代码片段
 | Fab     | TDesign 微信小程序组件库之 Fab 组件示例页     | https://developers.weixin.qq.com/s/KNHt9bmB7OSc |
 | Icon    | TDesign 微信小程序组件库之 Icon 组件示例页    | https://developers.weixin.qq.com/s/wMINibmJ7WSQ |
 | Layout  | TDesign 微信小程序组件库之 Layout 组件示例页  | https://developers.weixin.qq.com/s/WwISnbmq7RSC |
-| Link    | TDesign 微信小程序组件库之 Link 组件示例页    | -                                               |
+| Link    | TDesign 微信小程序组件库之 Link 组件示例页    | https://developers.weixin.qq.com/s/AtJrPbmK7mSK |
