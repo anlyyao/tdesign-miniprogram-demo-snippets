@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "Divider",
+  "usingComponents": {
+    "base": "./base",
+    "theme": "./theme"
+  }
+}
