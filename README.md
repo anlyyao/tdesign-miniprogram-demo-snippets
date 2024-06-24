@@ -18,6 +18,6 @@ TDesign 微信小程序组件库的组件示例代码片段
 | Button  | TDesign 微信小程序组件库之 Button 组件示例页  | https://developers.weixin.qq.com/s/F1cSo7mm75SS |
 | Divider | TDesign 微信小程序组件库之 Divider 组件示例页 | https://developers.weixin.qq.com/s/tfHzFbma7IS4 |
 | Fab     | TDesign 微信小程序组件库之 Fab 组件示例页     | https://developers.weixin.qq.com/s/KNHt9bmB7OSc |
-| Icon    | TDesign 微信小程序组件库之 Icon 组件示例页    | https://developers.weixin.qq.com/s/2sIhDbmO7lSc |
-| Layout  | TDesign 微信小程序组件库之 Layout 组件示例页  | -                                               |
+| Icon    | TDesign 微信小程序组件库之 Icon 组件示例页    | https://developers.weixin.qq.com/s/wMINibmJ7WSQ |
+| Layout  | TDesign 微信小程序组件库之 Layout 组件示例页  | https://developers.weixin.qq.com/s/WwISnbmq7RSC |
 | Link    | TDesign 微信小程序组件库之 Link 组件示例页    | -                                               |
