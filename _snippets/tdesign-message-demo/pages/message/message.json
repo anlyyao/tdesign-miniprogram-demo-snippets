@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "Message",
+  "usingComponents": {
+    "base": "./base",
+    "theme": "./theme"
+  }
+}

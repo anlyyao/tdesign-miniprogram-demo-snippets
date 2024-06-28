@@ -1,0 +1,16 @@
+{
+  "darkmode": true,
+  "themeLocation": "theme.json",
+  "pages": ["pages/pull-down-refresh/pull-down-refresh"],
+  "window": {
+    "navigationBarTextStyle": "@navTxtStyle",
+    "navigationBarBackgroundColor": "@navBgColor"
+  },
+  "usingComponents": {
+    "t-demo": "./components/demo-block/index",
+    "t-button": "tdesign-miniprogram/button/button",
+    "t-icon": "tdesign-miniprogram/icon/icon"
+  },
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

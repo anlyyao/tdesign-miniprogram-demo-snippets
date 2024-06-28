@@ -1,0 +1,8 @@
+.custom-tabs {
+  margin-bottom: 32rpx;
+}
+
+.custom-panel {
+  height: 120px;
+  color: var(--td-text-color-primary);
+}

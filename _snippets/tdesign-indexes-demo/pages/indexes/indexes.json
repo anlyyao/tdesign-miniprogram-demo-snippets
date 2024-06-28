@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Indexes",
+  "usingComponents": {
+    "t-button": "tdesign-miniprogram/button/button"
+  }
+}

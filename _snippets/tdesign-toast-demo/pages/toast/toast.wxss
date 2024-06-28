@@ -1,0 +1,8 @@
+.demo .t-button {
+  margin-bottom: 32rpx;
+}
+.demo .box {
+  display: block;
+  box-sizing: border-box;
+  padding: 0 32rpx;
+}

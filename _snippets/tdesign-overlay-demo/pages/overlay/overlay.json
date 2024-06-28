@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Overlay",
+  "usingComponents": {
+    "base": "./base"
+  }
+}
