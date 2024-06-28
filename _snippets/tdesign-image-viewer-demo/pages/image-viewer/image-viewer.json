@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "ImageViewer",
+  "usingComponents": {
+    "base": "./base",
+    "delete": "./delete"
+  }
+}

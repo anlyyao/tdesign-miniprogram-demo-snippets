@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "CountDown",
+  "usingComponents": {
+    "base": "./base",
+    "size": "./size"
+  }
+}

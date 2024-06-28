@@ -147,7 +147,7 @@ const generateDemoSnippets = async (componentName) => {
     await replaceContent(targetPath, componentName);
     await deleteContentByKey(targetPath);
     await deleteContentNavbar(targetPath);
-  }, 300);
+  }, 1000);
 };
 
 /**

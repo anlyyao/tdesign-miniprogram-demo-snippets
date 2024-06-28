@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "Result Page",
+  "usingComponents": {
+    "t-button": "tdesign-miniprogram/button/button",
+    "t-result": "tdesign-miniprogram/result/result"
+  }
+}

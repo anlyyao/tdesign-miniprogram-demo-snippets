@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "Swiper",
+  "backgroundColor": "#fff",
+  "usingComponents": {
+    "base": "./base",
+    "fraction": "./fraction",
+    "nav-btn": "./nav-btn",
+    "custom": "./custom",
+    "cards": "./cards",
+    "vertical": "./vertical"
+  }
+}

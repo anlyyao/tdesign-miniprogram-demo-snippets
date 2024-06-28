@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "Progress",
+  "usingComponents": {
+    "base": "./base",
+    "transition": "./transition",
+    "custom": "./custom",
+    "line": "./line",
+    "plump": "./plump",
+    "circle": "./circle"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "Tag",
+  "usingComponents": {
+    "theme": "./theme",
+    "size": "./size",
+    "type": "./type",
+    "closable": "./closable",
+    "checkable": "./checkable"
+  }
+}
