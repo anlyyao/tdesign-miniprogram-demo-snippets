@@ -36,7 +36,7 @@ const deleteKeyContent = [
   },
 ];
 
-const deleteOneLineContent = [{ file: `pages/${COMPONENT_NAME}/${COMPONENT_NAME}.wxml` }];
+const deleteNavbarContent = [{ file: `pages/${COMPONENT_NAME}/${COMPONENT_NAME}.wxml` }];
 
 const copyFiles = (fromPath, toPath) => {
   // fs.cp() 异步拷贝
@@ -108,11 +108,15 @@ const deleteContentByKey = (targetPath) => {
   });
 };
 
-const deleteContentOneLine = (targetPath) => {
-  deleteOneLineContent.forEach((item) => {
-    const data = fs.readFileSync(path.join(targetPath, item.file), 'utf8');
-    const newData = data.split('\n').splice(1);
-    fs.writeFileSync(path.join(targetPath, item.file), newData.join('\n'), 'utf8');
+const deleteContentNavbar = (targetPath) => {
+  deleteNavbarContent.forEach((item) => {
+    const fileContent = fs.readFileSync(path.join(targetPath, item.file), 'utf8');
+    // 使用正则表达式匹配以 <t-navbar 开头并以 /> 结尾的内容
+    const regex = /<t-navbar[^>]*?\/>/g;
+    // 使用 replace() 方法替换匹配到的内容
+    const updatedContent = fileContent.replace(regex, '');
+
+    fs.writeFileSync(path.join(targetPath, item.file), updatedContent, 'utf8');
   });
 };
 
@@ -142,7 +146,7 @@ const generateDemoSnippets = async (componentName) => {
     await removeFile(cpDemoCodePath, filterFile, saveFileType);
     await replaceContent(targetPath, componentName);
     await deleteContentByKey(targetPath);
-    await deleteContentOneLine(targetPath);
+    await deleteContentNavbar(targetPath);
   }, 300);
 };
 
