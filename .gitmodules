@@ -1,0 +1,3 @@
+[submodule "tdesign-miniprogram"]
+	path = tdesign-miniprogram
+	url = https://github.com/Tencent/tdesign-miniprogram.git

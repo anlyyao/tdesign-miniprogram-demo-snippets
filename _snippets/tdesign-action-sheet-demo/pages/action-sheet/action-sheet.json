@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "ActionSheet",
+  "usingComponents": {
+    "t-toast": "tdesign-miniprogram/toast/toast",
+    "list": "./list",
+    "status": "./status",
+    "grid": "./grid",
+    "align": "./align"
+  }
+}

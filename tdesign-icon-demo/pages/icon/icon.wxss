@@ -1,5 +1,0 @@
-@import './iconfont.wxss';
-
-page {
-  background: #fff;
-}

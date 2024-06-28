@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "Icon",
-  "usingComponents": {
-    "base": "./base",
-    "custom": "./custom",
-    "iconImage": "./iconImage"
-  }
-}

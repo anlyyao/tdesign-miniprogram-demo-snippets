@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "Layout",
-  "usingComponents": {
-    "base": "./base",
-    "offset": "./offset"
-  }
-}

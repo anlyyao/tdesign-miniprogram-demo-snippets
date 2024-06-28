@@ -1,9 +1,0 @@
-{
-  "navigationBarTitleText": "Fab",
-  "usingComponents": {
-    "t-button": "tdesign-miniprogram/button/button",
-    "base": "./base",
-    "advance": "./advance",
-    "draggable": "./draggable"
-  }
-}
