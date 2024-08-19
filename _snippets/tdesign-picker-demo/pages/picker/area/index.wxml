@@ -6,7 +6,6 @@
   title="选择地区"
   cancelBtn="取消"
   confirmBtn="确认"
-  usingCustomNavbar
   bindchange="onPickerChange"
   bindpick="onColumnChange"
   bindcancel="onPickerCancel"

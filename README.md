@@ -30,7 +30,7 @@ TDesign 微信小程序组件库的组件示例代码片段
 | Checkbox        | TDesign 微信小程序组件库之 Checkbox 组件示例页        | https://developers.weixin.qq.com/s/2M5mxim27YSp |
 | DateTimePicker  | TDesign 微信小程序组件库之 DateTimePicker 组件示例页  | https://developers.weixin.qq.com/s/Am6VDimq73SP |
 | Input           | TDesign 微信小程序组件库之 Input 组件示例页           | https://developers.weixin.qq.com/s/Id60eimj76Ss |
-| Picker          | TDesign 微信小程序组件库之 Picker 组件示例页          | https://developers.weixin.qq.com/s/zl60wim97bSp |
+| Picker          | TDesign 微信小程序组件库之 Picker 组件示例页          | https://developers.weixin.qq.com/s/dCCmkymv7aTw |
 | Radio           | TDesign 微信小程序组件库之 Radio 组件示例页           | https://developers.weixin.qq.com/s/GW6DrimI7hSV |
 | Rate            | TDesign 微信小程序组件库之 Rate 组件示例页            | https://developers.weixin.qq.com/s/J86K2imu7tSh |
 | Search          | TDesign 微信小程序组件库之 Search 组件示例页          | https://developers.weixin.qq.com/s/wG6pximT7xSH |

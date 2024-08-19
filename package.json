@@ -4,7 +4,7 @@
   "description": "TDesign 微信小程序组件库的组件示例代码片段",
   "main": "generate-demo-snippets.js",
   "scripts": {
-    "init": "git submodule init && git submodule update && ",
+    "init": "git submodule init && git submodule update",
     "miniprogram:build": "cd tdesign-miniprogram && npm install && git pull origin develop && npm run build"
   },
   "repository": {
